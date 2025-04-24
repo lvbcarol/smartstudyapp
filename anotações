@@ -1,0 +1,6 @@
+cd web
+npm start
+- para rodar na versão web - usa react
+cd mobile 
+npx expo start
+- para rodar a versão app - usa react native
